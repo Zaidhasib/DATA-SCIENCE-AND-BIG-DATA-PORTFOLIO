@@ -7,18 +7,30 @@ For the more plesant experience ,please check my portfolio:
 
 ## Content
 
-### 1. Fake News Classfier
+### Projects 
+
+#### 1. Fake News Classfier
   
   Background: In this project , i have created a fake news classifier from the 
   
   Libraries Used: 
   
   
-### 2. Advance Housing Price Prediction
+#### 2. Advance Housing Price Prediction
 
 
-### 3. In depth Data Analysis on Airbnb data of New York area.
+#### 3. In depth Data Analysis on Airbnb data of New York area.
 
-### 4. Similar Question classifer on Quora datasets.
+#### 4. Similar Question classifer on Quora datasets.
 
-### 5. Neighbourhood prediction for Italian Resturant in Banglore
+#### 5. Neighbourhood prediction for Italian Resturant in Banglore
+
+
+### Education
+
+#### Post Graduation Programme in Artificial Intelligence and Machine Learning from BITS Pilani(2020-Present)
+##### 93.5%
+
+#### Bachelor of Technology in Electronics and Electrical Engineering from KIIT University Bhubaneswar(2014-2018)
+#### 8.75 CGPA
+
