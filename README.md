@@ -72,7 +72,7 @@ For more projects , Please visit my [github](https://github.com/Zaidhasib/) page
    8.75 CGPA
  
  
-### Online Courses and Certifications
+### Certifications
  
    List of Online Courses and Certification that I completed to acquire knowledge and build my understanding on the subjects                related to big data and data science.
    
@@ -93,9 +93,9 @@ For more projects , Please visit my [github](https://github.com/Zaidhasib/) page
    
 ### Contacts
 
-<img src="/Images/Gmail.PNG" alt='M' width="25" height="25">   zaidhasib@gmail.com
+<img src="/Images/Gmail.PNG" alt='Mail' width="25" height="25">       zaidhasib@gmail.com
 
-<img src="/Images/LinkedIn.PNG" alt='L' width="25" height="25"> [LinkedIn](https://www.linkedin.com/in/md-zaid-hasib-878666102)
+<img src="/Images/LinkedIn.PNG" alt='LinkedIn' width="25" height="25">    [LinkedIn](https://www.linkedin.com/in/md-zaid-hasib-878666102)
 
 
  
