@@ -60,19 +60,19 @@ For more projects , Please visit my [github](https://github.com/Zaidhasib/) page
 
 ### Education
 
- Post Graduation Programme in Artificial Intelligence and Machine Learning
+#### Post Graduation Programme in Artificial Intelligence and Machine Learning
  
- BITS Pilani(2020-Present)    
- 93.5% 
+   BITS Pilani(2020-Present)    
+   93.5% 
 
 
- Bachelor of Technology in Electronics and Electrical Engineering 
+#### Bachelor of Technology in Electronics and Electrical Engineering 
  
- KIIT University Bhubaneswar(2014-2018)  
- 8.75 CGPA
+   KIIT University Bhubaneswar(2014-2018)  
+   8.75 CGPA
  
  
- #### Online Courses and Certifications
+ ### Online Courses and Certifications
  
    List of Online Courses and Certification that I completed to acquire knowledge and build my understanding on the subjects                related to big data and data science.
    
