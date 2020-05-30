@@ -11,10 +11,8 @@ For the more plesant experience ,please check my [portfolio](https://zaidhasib.g
 
 #### 1.[Fake News Classfier](https://github.com/Zaidhasib/DATA-SCIENCE-AND-BIG-DATA-PORTFOLIO/tree/master/Fake%20News%20Classifier)
   
-  Background: In this project , i have created a fake news classifier from the 
   
-  Libraries Used: 
-  
+  ![](/images/positions_by_state.png)
   
 #### 2. [Housing Price Prediction](https://github.com/Zaidhasib/DATA-SCIENCE-AND-BIG-DATA-PORTFOLIO/tree/master/Housing%20Price%20Prediction)
 
@@ -25,21 +23,26 @@ For the more plesant experience ,please check my [portfolio](https://zaidhasib.g
 
 #### 5. [Neighbourhood prediction for Italian Resturant in Banglore](https://github.com/Zaidhasib/DATA-SCIENCE-AND-BIG-DATA-PORTFOLIO/tree/master/Resturant%20Location%20Recommender)
 
+[For more projects , kindly visit my github page](https://github.com/Zaidhasib/)
 
 ### Education
 
 #### Post Graduation Programme in Artificial Intelligence and Machine Learning
- BITS Pilani(2020-Present)    93.5% 
+ BITS Pilani(2020-Present)    
+ 93.5% 
 
 
 #### Bachelor of Technology in Electronics and Electrical Engineering 
- KIIT University Bhubaneswar(2014-2018)  8.75 CGPA
+ KIIT University Bhubaneswar(2014-2018)  
+ 8.75 CGPA
  
  
  #### Online Courses and Certifications
-   List of Online Courses and Certification that I enrolled to order to acquire knowledge and build my understanding on the subjects        related to big data and data science.
+ 
+   List of Online Courses and Certification that I completed to acquire knowledge and build my understanding on the subjects                related to big data and data science.
    
    ** [Google Cloud Platform Big Data and Machine Learning Fundamentals by Google Cloud on Coursera](https://www.coursera.org/account/accomplishments/certificate/RFABJFD9WPQ2)
+   
    ** [IBM Data Science Professional Certificate by IBM on Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/EH2YT8YM9HEU)
    
    ** [Deep Learning Specialization Certificate by deeplearning.ai on Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/XB2LZCFU62DT)
@@ -49,5 +52,11 @@ For the more plesant experience ,please check my [portfolio](https://zaidhasib.g
    ** [Introduction to Data Science by IBM on Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/726YBEXN7UEV)
    
    ** [Microsoft Power BI Masters from Ineuron.ai](https://academy.ineuron.ai/certificates/downloads/PB008852.pdf)
+   
+   For checking more certificates and Courses done by me . Please Click [here](https://www.youracclaim.com/users/md-zaid-hasib)
+   
+   
+### Contact
+   ![](//Images/Gmail.PNG)
  
 
