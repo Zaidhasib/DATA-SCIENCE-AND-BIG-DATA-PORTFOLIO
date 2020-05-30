@@ -60,12 +60,14 @@ For more projects , Please visit my [github](https://github.com/Zaidhasib/) page
 
 ### Education
 
- Post Graduation Programme in Artificial Intelligence and Machine Learning 
+ Post Graduation Programme in Artificial Intelligence and Machine Learning
+ 
  BITS Pilani(2020-Present)    
  93.5% 
 
 
-#### Bachelor of Technology in Electronics and Electrical Engineering 
+ Bachelor of Technology in Electronics and Electrical Engineering 
+ 
  KIIT University Bhubaneswar(2014-2018)  
  8.75 CGPA
  
@@ -90,9 +92,9 @@ For more projects , Please visit my [github](https://github.com/Zaidhasib/) page
    
    
 ### Contacts
-<img src="/Images/Gmail.PNG" width="20" height="20">   zaidhasib@gmail.com
+<img src="/Images/Gmail.PNG" alt='M' width="25" height="25">   zaidhasib@gmail.com
 
-<img src="/Images/LinkedIn.PNG" width="20" height="20"> [LinkedIn](https://www.linkedin.com/in/md-zaid-hasib-878666102)
+<img src="/Images/LinkedIn.PNG" alt='L' width="25" height="25"> [LinkedIn](https://www.linkedin.com/in/md-zaid-hasib-878666102)
 
 
  
