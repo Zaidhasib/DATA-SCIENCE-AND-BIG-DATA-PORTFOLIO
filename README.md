@@ -15,9 +15,9 @@ For the more pleasant experience ,please check my online [portfolio](https://zai
   
   * Libraries used : NLTK,Numpy,Pandas,Matplotlib,Sckit-Learn and Keras.Got an accuracy of 91%.
   
-  <p align="center">
-  <img src ="Images/FakeNews.PNG" height="350" width="500"/>
-  </p>
+<p align="center">
+   <img src ="Images/FakeNews.PNG" height="350" width="450"/>
+</p>
  
  
   
@@ -27,14 +27,14 @@ For the more pleasant experience ,please check my online [portfolio](https://zai
   
   * Library used :Numpy,Pandas,Matplotlib,Sckit-Learn and Keras.
   
-  <div class="row">
-  <div class="column">
-  <img src="/Images/House1.PNG" width="350" height="400">
+<div class="row">
+   <div class="column">
+      <img src="/Images/House1.PNG" width="450" height="350">
    </div>
-  <div class="column">
-  <img src="/Images/House2.PNG" width="350" height="400">
+   <div class="column">
+      <img src="/Images/House2.PNG" width="450" height="350">
    </div>
-  </div>
+</div>
 
 #### 3. [In depth Data Analysis on Airbnb data for New York area](https://github.com/Zaidhasib/DATA-SCIENCE-AND-BIG-DATA-PORTFOLIO/tree/master/Airbnb%20data%20analysis%20using%20Apache%20Spark)
 
@@ -46,12 +46,30 @@ For the more pleasant experience ,please check my online [portfolio](https://zai
    * Built a question classifier, which will  clasify whether the two questions are of same meaning or not. Used NLP techniques like          BOW, Tf-Idf , Word2Vec. Done features creation and features selection. For model creation used SGD. 
    
    * Libraries used : NLTK,Numpy,Pandas,Matplotlib,Sckit-Learn
+   
+<div class="row">
+   <div class="column">
+      <img src="/Images/Quora1.PNG" width="450" height="350">
+   </div>
+   <div class="column">
+      <img src="/Images/Quora2.PNG" width="450" height="350">
+   </div>
+</div>
 
 #### 5. [Neighbourhood prediction for Italian Resturant in Banglore](https://github.com/Zaidhasib/DATA-SCIENCE-AND-BIG-DATA-PORTFOLIO/tree/master/Resturant%20Location%20Recommender)
 
   * Built an Neighbiurhood predictor in banglore area for New Italian Resturant in radius of 12 KM area. For the data extraction used       geopy,folium. Used foursquare api for getting the details of existing retsurants. Used K-Means algorithm for segmentation.
   
   * Libraries used : Numpy,Pandas,Matplotlib,Sckit-Learn,folium,geopy.
+  
+<div class="row">
+   <div class="column">
+      <img src="/Images/Cluster1.PNG" width="450" height="350">
+   </div>
+   <div class="column">
+      <img src="/Images/Cluster2.PNG" width="450" height="350">
+   </div>
+</div>
 
 
 For more projects , Please visit my [github](https://github.com/Zaidhasib/) page
