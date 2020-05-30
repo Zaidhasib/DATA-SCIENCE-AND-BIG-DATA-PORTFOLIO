@@ -15,10 +15,11 @@ For the more pleasant experience ,please check my online [portfolio](https://zai
   
   * Libraries used : NLTK,Numpy,Pandas,Matplotlib,Sckit-Learn and Keras.Got an accuracy of 91%.
   
-  <figure class="center">
-  <img src="/Images/FakeNews.PNG" width="400" height="400"  class="centerImage">
-  <figcaption>Fig.1 -Confusion Matrix of Fake News Classifier</figcaption>
-  </figure>
+  <p align="center">
+  <img src ="Images/FakeNews.PNG" height="350" width="500"/>
+  </p>
+ 
+ 
   
 #### 2. [Housing Price Prediction](https://github.com/Zaidhasib/DATA-SCIENCE-AND-BIG-DATA-PORTFOLIO/tree/master/Housing%20Price%20Prediction)
 
@@ -28,17 +29,11 @@ For the more pleasant experience ,please check my online [portfolio](https://zai
   
   <div class="row">
   <div class="column">
-  <figure class="center">
-  <img src="/Images/House1.PNG" width="300" height="300"  class="centerImage">
-  <figcaption>Fig.1 -Snapshot from EDA of training data</figcaption>
-  </div>
-    <div class="column">
-  </figure>
-  <figure class="center">
-  <img src="/Images/House2.PNG" width="300" height="300"  class="centerImage">
-  <figcaption>Fig.2 -Snapshot from EDA of training data</figcaption>
-   </figure>
-    </div>
+  <img src="/Images/House1.PNG" width="350" height="400">
+   </div>
+  <div class="column">
+  <img src="/Images/House2.PNG" width="350" height="400">
+   </div>
   </div>
 
 #### 3. [In depth Data Analysis on Airbnb data for New York area](https://github.com/Zaidhasib/DATA-SCIENCE-AND-BIG-DATA-PORTFOLIO/tree/master/Airbnb%20data%20analysis%20using%20Apache%20Spark)
